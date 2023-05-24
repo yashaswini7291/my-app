@@ -1,0 +1,26 @@
+.grid {
+    margin: 100px 0 0;
+  }
+  
+  .button1 {
+    background-color: #fc20df;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .button2 {
+    margin-right: 500px;
+    background-color: #f81eed;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
